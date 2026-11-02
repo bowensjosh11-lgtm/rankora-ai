@@ -1,0 +1,1 @@
+{"name":"rankora-ai","version":"1.0.0","description":"Rankora AI - ecommerce SEO scanner","main":"server.js","scripts":{"start":"node --no-warnings server.js","test":"node --no-warnings --test test/*.test.js"},"engines":{"node":">=22.5"}}
